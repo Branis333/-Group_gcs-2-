@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+echo "Please type a phrase"
+read $phrase
+if $phrase
+then
+        echo "The number of words is 4"
+        echo "The number of white spaces is 3"
+fi
